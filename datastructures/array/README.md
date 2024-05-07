@@ -1,0 +1,1 @@
+um array é uma estrutura de dados, isto significa que é uma forma de representar, manipular e armazenar dados em um computador. Um Array também é chamado de Variável Composta Homogênea, isto significa que um Array é um tipo de variável que consegue armazenar mais de um dado de um único tipo.
