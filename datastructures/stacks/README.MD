@@ -1,0 +1,2 @@
+O conceito de pilha segue o princípio LIFO (LAST IN FIRST OUT), significa que a última função adicionada à pilha é a primeira a ser removida.
+o javascript utiliza a pilha no seu motor por baixo dos panos ,ela é usada para rastrear a execução das funções em um programa.
