@@ -10,3 +10,5 @@ function reversedArray(array) {
 }
 
 console.log(reversedArray(array));
+
+//hackerRank solution Arrays Ds
